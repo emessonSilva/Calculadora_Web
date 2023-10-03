@@ -1,6 +1,6 @@
 # Web Calculator
 
-This is a simple calculator project implemented using HTML, CSS, and JavaScript. Below is a readme describing the structure and functionality of the code.
+This is a simple calculator project implemented using HTML, CSS, JavaScript and Bootstrap. Below is a readme describing the structure and functionality of the code.
 
 ## Files and Structure
 
