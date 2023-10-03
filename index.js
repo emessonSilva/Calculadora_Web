@@ -1,7 +1,6 @@
 let equation = "";
 let errorMessage = false;
 
-// Works to break the display text line 
 const display = document.getElementById('display')
 const displayCSS = window.getComputedStyle(display)
 display.style.maxWidth = displayCSS.width
